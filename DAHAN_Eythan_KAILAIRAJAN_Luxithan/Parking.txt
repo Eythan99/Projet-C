@@ -1,0 +1,55 @@
+7111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111118
+2                                                                                            2
+2                    S                                                                       2
+2                    S                                                                       2
+2                    S                                          QQQQQQQQQQQQQQ               2
+2                    S                                                                       2
+2                    S                                                                       2
+2                    S                                                                       2
+2                    S                                                                       2
+2                    S                                                                       2
+2                                                                                            2
+61111111111111111             1111111111111111331111111111111111             11111111111111115
+2gggggggggggggggg             gggggggggggggggg22gggggggggggggggg             gggggggggggggggg2
+2gggggggggggggggg             gggggggggggggggg22gggggggggggggggg             gggggggggggggggg2
+2gggggggggggggggg    G        gggggggggggggggg22gggggggggggggggg    J        gggggggggggggggg2
+2gggggggggggggggg             gggggggggggggggg22gggggggggggggggg             gggggggggggggggg2
+2gggggggggggggggg             gggggggggggggggg22gggggggggggggggg             gggggggggggggggg2
+2gggggggggggggggg             gggggggggggggggg22gggggggggggggggg             gggggggggggggggg2
+2gggggggggggggggg             gggggggggggggggg22gggggggggggggggg             gggggggggggggggg2
+61111111111111111             1111111111111111561111111111111111             11111111111111115
+2gggggggggggggggg             gggggggggggggggg22gggggggggggggggg             gggggggggggggggg2
+2gggggggggggggggg             gggggggggggggggg22gggggggggggggggg             gggggggggggggggg2
+2gggggggggggggggg    H        gggggggggggggggg22gggggggggggggggg    I        gggggggggggggggg2
+2gggggggggggggggg             gggggggggggggggg22gggggggggggggggg             gggggggggggggggg2
+2gggggggggggggggg             gggggggggggggggg22gggggggggggggggg             gggggggggggggggg2
+2gggggggggggggggg             gggggggggggggggg22gggggggggggggggg             gggggggggggggggg2
+2gggggggggggggggg             gggggggggggggggg22gggggggggggggggg             gggggggggggggggg2
+61111111111111111             1111111111111111561111111111111111             11111111111111115
+2gggggggggggggggg             gggggggggggggggg22gggggggggggggggg             gggggggggggggggg2
+2gggggggggggggggg             gggggggggggggggg22gggggggggggggggg             gggggggggggggggg2
+2gggggggggggggggg    I        gggggggggggggggg22gggggggggggggggg    H        gggggggggggggggg2
+2gggggggggggggggg             gggggggggggggggg22gggggggggggggggg             gggggggggggggggg2
+2gggggggggggggggg             gggggggggggggggg22gggggggggggggggg             gggggggggggggggg2
+2gggggggggggggggg             gggggggggggggggg22gggggggggggggggg             gggggggggggggggg2
+2gggggggggggggggg             gggggggggggggggg22gggggggggggggggg             gggggggggggggggg2
+61111111111111111             1111111111111111561111111111111111             11111111111111115
+2gggggggggggggggg             gggggggggggggggg22gggggggggggggggg             gggggggggggggggg2
+2gggggggggggggggg             gggggggggggggggg22gggggggggggggggg             gggggggggggggggg2
+2gggggggggggggggg    J        gggggggggggggggg22gggggggggggggggg    G        gggggggggggggggg2
+2gggggggggggggggg             gggggggggggggggg22gggggggggggggggg             gggggggggggggggg2
+2gggggggggggggggg             gggggggggggggggg22gggggggggggggggg             gggggggggggggggg2
+2gggggggggggggggg             gggggggggggggggg22gggggggggggggggg             gggggggggggggggg2
+2gggggggggggggggg             gggggggggggggggg22gggggggggggggggg             gggggggggggggggg2
+61111111111111111             1111111111111111441111111111111111             11111111111111115
+2                                                                                            2
+2                                                                                            2
+2                                                                                            2
+2                                                                                            2
+2                                                                                            2
+2                3           3                                   3           3               2
+2                2           2                                   2           2               2
+2                2           2                                   2           2               2
+2                2           2                                   2           2               2
+2                2           2                                   2           2               2
+011111111111111119           0111111111111111111111111111111111119           01111111111111119
